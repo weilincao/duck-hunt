@@ -1,2 +1,2 @@
-# duck-hunt
-final project for EE319K intro to embedded system
+# Lab-10-Cplusplus
+Game design competition, written in C++
